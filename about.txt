@@ -2,3 +2,12 @@ Name: Ed Guerero S. Igot
 Course: Bachelor Of Science In Information Technology
 Section: 2A
 Project: GitHub Desktop Practice
+
+
+My Hobbies:
+-Adventure Hiking
+-Cooking
+-Watching Movies
+
+My Goal:
+Making people closer Together
